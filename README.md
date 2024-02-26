@@ -1,0 +1,1 @@
+These are the notebooks of python projects I have completed for data analysis. In this projects, I have used pandas, numpy, seaborn, matplotlib, scikit, sklearn and other packages to perform data analysis and visualizations in python. 
